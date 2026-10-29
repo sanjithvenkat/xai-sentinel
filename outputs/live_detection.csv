@@ -1,0 +1,60 @@
+﻿timestamp,protocol,source_ip,destination_ip,source_port,destination_port,icmp_type,arp_operation,duration_seconds,packets,bytes,bytes_per_second,packets_per_second,detection_status,explanation
+2026-10-17T08:53:14,OTHER,,,,,,,72.319,18,1412,19.524606258382995,0.24889724691989656,REVIEW,Unclassified protocol; inspect flow rule
+2026-10-18T07:52:56,OTHER,,,,,,,26.298,10,780,29.6600501939311,0.38025705376834745,REVIEW,Unclassified protocol; inspect flow rule
+2026-10-18T08:24:47,OTHER,,,,,,,1937.379,31,2250,1.1613628515638912,0.016000999288213615,REVIEW,Unclassified protocol; inspect flow rule
+2026-10-19T08:18:11,ARP,10.0.0.2,10.0.0.1,,,,2,17.192,0,0,0.0,0.0,NO_ACTIVITY,No packets or bytes recorded in this flow
+2026-10-19T08:18:11,ARP,10.0.0.2,10.0.0.1,,,,1,12.036,0,0,0.0,0.0,NO_ACTIVITY,No packets or bytes recorded in this flow
+2026-10-19T08:18:11,ARP,10.0.0.1,10.0.0.2,,,,2,12.035,0,0,0.0,0.0,NO_ACTIVITY,No packets or bytes recorded in this flow
+2026-10-19T08:18:11,ICMP,10.0.0.1,10.0.0.2,,,8,,17.191,0,0,0.0,0.0,NO_ACTIVITY,No packets or bytes recorded in this flow
+2026-10-19T08:18:11,ICMP,10.0.0.2,10.0.0.1,,,0,,17.19,0,0,0.0,0.0,NO_ACTIVITY,No packets or bytes recorded in this flow
+2026-10-19T08:18:11,ICMP,10.0.0.2,10.0.0.1,,,8,,17.184,0,0,0.0,0.0,NO_ACTIVITY,No packets or bytes recorded in this flow
+2026-10-19T08:18:11,ICMP,10.0.0.1,10.0.0.2,,,0,,17.183,0,0,0.0,0.0,NO_ACTIVITY,No packets or bytes recorded in this flow
+2026-10-19T08:18:11,OTHER,,,,,,,21.348,18,1340,62.76934607457373,0.8431703204047218,REVIEW,Unclassified protocol; inspect flow rule
+2026-10-19T11:02:53,ICMP,10.0.0.2,10.0.0.1,,,0,,16.899,4,392,23.19663885437008,0.23670039647316407,NO_RULE_TRIGGERED,No configured heuristic triggered
+2026-10-19T11:02:53,ICMP,10.0.0.1,10.0.0.2,,,8,,15.911,4,392,24.637043554773427,0.25139840362013705,NO_RULE_TRIGGERED,No configured heuristic triggered
+2026-10-19T11:02:53,ARP,10.0.0.2,10.0.0.1,,,,1,11.887,1,42,3.5332716412888026,0.08412551526878102,NO_RULE_TRIGGERED,No configured heuristic triggered
+2026-10-19T11:02:53,ARP,10.0.0.1,10.0.0.2,,,,1,11.887,1,42,3.5332716412888026,0.08412551526878102,NO_RULE_TRIGGERED,No configured heuristic triggered
+2026-10-19T11:02:53,ARP,10.0.0.1,10.0.0.2,,,,2,11.886,0,0,0.0,0.0,NO_ACTIVITY,No packets or bytes recorded in this flow
+2026-10-19T11:02:53,ARP,10.0.0.2,10.0.0.1,,,,2,11.886,0,0,0.0,0.0,NO_ACTIVITY,No packets or bytes recorded in this flow
+2026-10-19T11:02:53,OTHER,,,,,,,9903.823,40,2880,0.29079679634823846,0.004038844393725534,REVIEW,Unclassified protocol; inspect flow rule
+2026-10-21T16:53:54,ICMP,10.0.0.1,10.0.0.2,,,8,,12.597,0,0,0.0,0.0,NO_ACTIVITY,No packets or bytes recorded in this flow
+2026-10-21T16:53:54,ICMP,10.0.0.2,10.0.0.1,,,0,,12.596,1,98,7.780247697681804,0.07939028262940616,NO_RULE_TRIGGERED,No configured heuristic triggered
+2026-10-21T16:53:54,ICMP,10.0.0.2,10.0.0.1,,,8,,12.592,0,0,0.0,0.0,NO_ACTIVITY,No packets or bytes recorded in this flow
+2026-10-21T16:53:54,ICMP,10.0.0.1,10.0.0.2,,,0,,12.592,0,0,0.0,0.0,NO_ACTIVITY,No packets or bytes recorded in this flow
+2026-10-21T16:53:54,ARP,10.0.0.2,10.0.0.1,,,,1,7.459,1,42,5.630781606113421,0.1340662287169862,NO_RULE_TRIGGERED,No configured heuristic triggered
+2026-10-21T16:53:54,ARP,10.0.0.1,10.0.0.2,,,,1,7.458,1,42,5.631536604987932,0.13408420488066505,NO_RULE_TRIGGERED,No configured heuristic triggered
+2026-10-21T16:53:54,ARP,10.0.0.1,10.0.0.2,,,,2,7.458,0,0,0.0,0.0,NO_ACTIVITY,No packets or bytes recorded in this flow
+2026-10-21T16:53:54,ARP,10.0.0.2,10.0.0.1,,,,2,7.458,0,0,0.0,0.0,NO_ACTIVITY,No packets or bytes recorded in this flow
+2026-10-21T16:53:54,OTHER,,,,,,,332.108,33,2434,7.328941187806376,0.09936526672046443,REVIEW,Unclassified protocol; inspect flow rule
+2026-10-21T17:50:36,ARP,10.0.0.2,10.0.0.1,,,,2,30.077,0,0,0.0,0.0,NO_ACTIVITY,No packets or bytes recorded in this flow
+2026-10-21T17:50:36,ARP,10.0.0.2,10.0.0.1,,,,1,24.876,0,0,0.0,0.0,NO_ACTIVITY,No packets or bytes recorded in this flow
+2026-10-21T17:50:36,ARP,10.0.0.1,10.0.0.2,,,,2,24.875,0,0,0.0,0.0,NO_ACTIVITY,No packets or bytes recorded in this flow
+2026-10-21T17:50:36,ICMP,10.0.0.1,10.0.0.2,,,8,,30.078,0,0,0.0,0.0,NO_ACTIVITY,No packets or bytes recorded in this flow
+2026-10-21T17:50:36,ICMP,10.0.0.2,10.0.0.1,,,0,,30.076,0,0,0.0,0.0,NO_ACTIVITY,No packets or bytes recorded in this flow
+2026-10-21T17:50:36,ICMP,10.0.0.2,10.0.0.1,,,8,,30.07,0,0,0.0,0.0,NO_ACTIVITY,No packets or bytes recorded in this flow
+2026-10-21T17:50:36,ICMP,10.0.0.1,10.0.0.2,,,0,,30.07,0,0,0.0,0.0,NO_ACTIVITY,No packets or bytes recorded in this flow
+2026-10-21T17:50:36,OTHER,,,,,,,33.58,23,1746,51.99523525908279,0.6849315068493151,REVIEW,Unclassified protocol; inspect flow rule
+2026-10-21T17:50:44,ARP,10.0.0.2,10.0.0.1,,,,2,38.124,0,0,0.0,0.0,NO_ACTIVITY,No packets or bytes recorded in this flow
+2026-10-21T17:50:44,ARP,10.0.0.2,10.0.0.1,,,,1,32.922,0,0,0.0,0.0,NO_ACTIVITY,No packets or bytes recorded in this flow
+2026-10-21T17:50:44,ARP,10.0.0.1,10.0.0.2,,,,2,32.921,0,0,0.0,0.0,NO_ACTIVITY,No packets or bytes recorded in this flow
+2026-10-21T17:50:44,ICMP,10.0.0.1,10.0.0.2,,,8,,38.124,0,0,0.0,0.0,NO_ACTIVITY,No packets or bytes recorded in this flow
+2026-10-21T17:50:44,ICMP,10.0.0.2,10.0.0.1,,,0,,38.122,0,0,0.0,0.0,NO_ACTIVITY,No packets or bytes recorded in this flow
+2026-10-21T17:50:44,ICMP,10.0.0.2,10.0.0.1,,,8,,38.116,0,0,0.0,0.0,NO_ACTIVITY,No packets or bytes recorded in this flow
+2026-10-21T17:50:44,ICMP,10.0.0.1,10.0.0.2,,,0,,38.116,0,0,0.0,0.0,NO_ACTIVITY,No packets or bytes recorded in this flow
+2026-10-21T17:50:44,OTHER,,,,,,,41.626,23,1746,41.94493825974151,0.5525392783356556,REVIEW,Unclassified protocol; inspect flow rule
+2026-10-23T05:25:43,ARP,10.0.0.2,10.0.0.1,,,,2,17.42,0,0,0.0,0.0,NO_ACTIVITY,No packets or bytes recorded in this flow
+2026-10-23T05:25:43,ARP,10.0.0.2,10.0.0.1,,,,1,12.248,0,0,0.0,0.0,NO_ACTIVITY,No packets or bytes recorded in this flow
+2026-10-23T05:25:43,ARP,10.0.0.1,10.0.0.2,,,,2,12.247,0,0,0.0,0.0,NO_ACTIVITY,No packets or bytes recorded in this flow
+2026-10-23T05:25:43,ICMP,10.0.0.1,10.0.0.2,,,8,,17.42,0,0,0.0,0.0,NO_ACTIVITY,No packets or bytes recorded in this flow
+2026-10-23T05:25:43,ICMP,10.0.0.2,10.0.0.1,,,0,,17.418,1,98,5.626363531978414,0.05741187277528993,NO_RULE_TRIGGERED,No configured heuristic triggered
+2026-10-23T05:25:43,ICMP,10.0.0.2,10.0.0.1,,,8,,17.415,0,0,0.0,0.0,NO_ACTIVITY,No packets or bytes recorded in this flow
+2026-10-23T05:25:43,ICMP,10.0.0.1,10.0.0.2,,,0,,17.414,0,0,0.0,0.0,NO_ACTIVITY,No packets or bytes recorded in this flow
+2026-10-23T05:25:43,OTHER,,,,,,,21.538,21,1594,74.0087287584734,0.9750208933048565,REVIEW,Unclassified protocol; inspect flow rule
+2026-10-24T03:24:51,ARP,10.0.0.2,10.0.0.1,,,,2,9.104,0,0,0.0,0.0,NO_ACTIVITY,No packets or bytes recorded in this flow
+2026-10-24T03:24:51,ARP,10.0.0.2,10.0.0.1,,,,1,4.075,0,0,0.0,0.0,NO_ACTIVITY,No packets or bytes recorded in this flow
+2026-10-24T03:24:51,ARP,10.0.0.1,10.0.0.2,,,,2,4.074,0,0,0.0,0.0,NO_ACTIVITY,No packets or bytes recorded in this flow
+2026-10-24T03:24:51,ICMP,10.0.0.1,10.0.0.2,,,8,,9.103,0,0,0.0,0.0,NO_ACTIVITY,No packets or bytes recorded in this flow
+2026-10-24T03:24:51,ICMP,10.0.0.2,10.0.0.1,,,0,,9.101,0,0,0.0,0.0,NO_ACTIVITY,No packets or bytes recorded in this flow
+2026-10-24T03:24:51,ICMP,10.0.0.2,10.0.0.1,,,8,,9.097,0,0,0.0,0.0,NO_ACTIVITY,No packets or bytes recorded in this flow
+2026-10-24T03:24:51,ICMP,10.0.0.1,10.0.0.2,,,0,,9.097,0,0,0.0,0.0,NO_ACTIVITY,No packets or bytes recorded in this flow
+2026-10-24T03:24:51,OTHER,,,,,,,13.75,21,1622,117.96363636363637,1.5272727272727273,REVIEW,Unclassified protocol; inspect flow rule

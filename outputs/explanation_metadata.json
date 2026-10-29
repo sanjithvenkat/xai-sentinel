@@ -1,0 +1,5 @@
+{
+  "prediction": "Bot",
+  "shap_seconds": 0.031,
+  "lime_seconds": 0.542
+}
